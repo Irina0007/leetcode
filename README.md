@@ -1,9 +1,9 @@
-# LeetCode
+# Remove Element
 
-| # | Title | Category | Difficulty | Language | Solution |
-|---|-------|----------|------------|----------|----------|
-| 26 | Remove Duplicates from Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) |
-| 27 | Remove Element | Array | Easy | Java | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
-| 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
-| 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
-| 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
+**[Remove Duplicates from Sorted Array II](https://www.notion.so/Remove-Duplicates-from-Sorted-Array-II-395674a64665807cb2dac4b9173114f0?pvs=21)**
+
+**[Remove Duplicates from Sorted Array](https://www.notion.so/Remove-Duplicates-from-Sorted-Array-395674a6466580aab83ef7a3944e4df4?pvs=21)**
+
+**[Merge Sorted Array](https://www.notion.so/Merge-Sorted-Array-394674a64665800897c6f945bae878f1?pvs=21)**
+
+[Majority Element](https://www.notion.so/Majority-Element-394674a64665808292e0f353a90e93f1?pvs=21)
