@@ -7,20 +7,5 @@
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
+| 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
 | 283 | Move Zeroes | Array | Easy | Java | [Solution.java](./Array/Java/0283-move-zeroes/Solution.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0189-rotate-array](https://github.com/Irina0007/leetcode/tree/main/0189-rotate-array/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0189-rotate-array](https://github.com/Irina0007/leetcode/tree/main/0189-rotate-array/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0189-rotate-array](https://github.com/Irina0007/leetcode/tree/main/0189-rotate-array/) | Medium |
-<!---LeetCode Topics End-->
