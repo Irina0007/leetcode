@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Irina0007/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+| [0274-h-index](https://github.com/Irina0007/leetcode/tree/main/0274-h-index/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,4 +29,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Irina0007/leetcode/tree/main/0045-jump-game-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/Irina0007/leetcode/tree/main/0274-h-index/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/Irina0007/leetcode/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
