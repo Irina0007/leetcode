@@ -12,29 +12,5 @@
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
+| 274 | H-Index | Array | Medium | Java | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
 | 283 | Move Zeroes | Array | Easy | Java | [Solution.java](./Array/Java/0283-move-zeroes/Solution.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0045-jump-game-ii](https://github.com/Irina0007/leetcode/tree/main/0045-jump-game-ii/) | Medium |
-| [0274-h-index](https://github.com/Irina0007/leetcode/tree/main/0274-h-index/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0045-jump-game-ii](https://github.com/Irina0007/leetcode/tree/main/0045-jump-game-ii/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0045-jump-game-ii](https://github.com/Irina0007/leetcode/tree/main/0045-jump-game-ii/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0274-h-index](https://github.com/Irina0007/leetcode/tree/main/0274-h-index/) | Medium |
-## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0274-h-index](https://github.com/Irina0007/leetcode/tree/main/0274-h-index/) | Medium |
-<!---LeetCode Topics End-->
