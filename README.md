@@ -4,6 +4,7 @@
 |---|-------|----------|------------|----------|----------|
 | 26 | Remove Duplicates from Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) |
 | 27 | Remove Element | Array | Easy | Java | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
+| 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
 | 121 | Best Time to Buy and Sell Stock | Array | Easy | Java | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
