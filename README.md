@@ -14,3 +14,19 @@
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
 | 274 | H-Index | Array | Medium | Java | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
 | 283 | Move Zeroes | Array | Easy | Java | [Solution.java](./Array/Java/0283-move-zeroes/Solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Irina0007/leetcode/tree/main/0383-ransom-note/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Irina0007/leetcode/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/Irina0007/leetcode/tree/main/0383-ransom-note/) | Easy |
+<!---LeetCode Topics End-->
