@@ -21,21 +21,6 @@
 |---|-------|----------|------------|----------|----------|
 | 1 | Two Sum | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0001-two-sum/Solution.java) |
 | 205 | Isomorphic Strings | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
+| 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 290 | Word Pattern | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0242-valid-anagram](https://github.com/Irina0007/leetcode/tree/main/0242-valid-anagram/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0242-valid-anagram](https://github.com/Irina0007/leetcode/tree/main/0242-valid-anagram/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0242-valid-anagram](https://github.com/Irina0007/leetcode/tree/main/0242-valid-anagram/) | Easy |
-<!---LeetCode Topics End-->
