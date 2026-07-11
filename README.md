@@ -24,3 +24,19 @@
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 290 | Word Pattern | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Irina0007/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Irina0007/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Irina0007/leetcode/tree/main/0219-contains-duplicate-ii/) | Easy |
+<!---LeetCode Topics End-->
