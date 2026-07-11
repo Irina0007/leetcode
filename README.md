@@ -28,10 +28,12 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Irina0007/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Irina0007/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/Irina0007/leetcode/tree/main/0290-word-pattern/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Irina0007/leetcode/tree/main/0205-isomorphic-strings/) | Easy |
+| [0290-word-pattern](https://github.com/Irina0007/leetcode/tree/main/0290-word-pattern/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
