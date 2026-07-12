@@ -26,3 +26,19 @@
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 290 | Word Pattern | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Irina0007/leetcode/tree/main/0392-is-subsequence/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Irina0007/leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/Irina0007/leetcode/tree/main/0392-is-subsequence/) | Easy |
+<!---LeetCode Topics End-->
