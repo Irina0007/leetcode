@@ -20,6 +20,7 @@
 | # | Title | Category | Difficulty | Language | Solution |
 |---|-------|----------|------------|----------|----------|
 | 1 | Two Sum | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0001-two-sum/Solution.java) |
+| 49 | Group Anagrams | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
 | 205 | Isomorphic Strings | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
 | 219 | Contains Duplicate II | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) |
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
