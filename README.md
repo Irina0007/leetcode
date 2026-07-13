@@ -32,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
+| [0011-container-with-most-water](https://github.com/Irina0007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
@@ -73,6 +74,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Irina0007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
@@ -85,6 +87,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Irina0007/leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
 | [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
