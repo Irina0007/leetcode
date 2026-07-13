@@ -24,40 +24,94 @@
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
 | 392 | Is Subsequence | String | Easy | Java | [Solution.java](./String/Java/0392-is-subsequence/Solution.java) |
 
-## LeetCode Topics
-
-### Array
-
-| # | Title | Difficulty | Solution |
-|---|-------|------------|----------|
-| 26 | Remove Duplicates from Sorted Array | Easy | [Solution.java](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) |
-| 27 | Remove Element | Easy | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
-| 45 | Jump Game II | Medium | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
-| 55 | Jump Game | Medium | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
-| 80 | Remove Duplicates from Sorted Array II | Medium | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
-| 88 | Merge Sorted Array | Easy | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
-| 121 | Best Time to Buy and Sell Stock | Easy | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
-| 122 | Best Time to Buy and Sell Stock II | Medium | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
-| 169 | Majority Element | Easy | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
-| 189 | Rotate Array | Medium | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
-| 274 | H-Index | Medium | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
-| 283 | Move Zeroes | Easy | [Solution.java](./Array/Java/0283-move-zeroes/Solution.java) |
-
-### Hashmap
-
-| # | Title | Difficulty | Solution |
-|---|-------|------------|----------|
-| 1 | Two Sum | Easy | [Solution.java](./Hashmap/Java/0001-two-sum/Solution.java) |
-| 49 | Group Anagrams | Medium | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
-| 202 | Happy Number | Easy | [Solution.java](./Hashmap/Java/0202-happy-number/Solution.java) |
-| 205 | Isomorphic Strings | Easy | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
-| 219 | Contains Duplicate II | Easy | [Solution.java](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) |
-| 242 | Valid Anagram | Easy | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
-| 290 | Word Pattern | Easy | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
-| 383 | Ransom Note | Easy | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
-
-### String
-
-| # | Title | Difficulty | Solution |
-|---|-------|------------|----------|
-| 392 | Is Subsequence | Easy | [Solution.java](./String/Java/0392-is-subsequence/Solution.java) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
+| [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
+| [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
+| [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
+| [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
+| [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
+| [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
+| [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
+| [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
+| [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
+| [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
+| [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
+| [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
+| [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
+| [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
+| [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
+| [0290-word-pattern](./Hashmap/Java/0290-word-pattern/Solution.java) | Easy |
+| [0383-ransom-note](./Hashmap/Java/0383-ransom-note/Solution.java) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
+| [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
+| [0290-word-pattern](./Hashmap/Java/0290-word-pattern/Solution.java) | Easy |
+| [0383-ransom-note](./Hashmap/Java/0383-ransom-note/Solution.java) | Easy |
+| [0392-is-subsequence](./String/Java/0392-is-subsequence/Solution.java) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
+| [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
+| [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
+| [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
+| [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
+| [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
+| [0392-is-subsequence](./String/Java/0392-is-subsequence/Solution.java) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
+| [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](./Array/Java/0055-jump-game/method-2-dp/Solution.java) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) | Easy |
+| [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
+| [0392-is-subsequence](./String/Java/0392-is-subsequence/Solution.java) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
+| [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
+| [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
+| [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
+| [0383-ransom-note](./Hashmap/Java/0383-ransom-note/Solution.java) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
+<!---LeetCode Topics End-->
