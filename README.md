@@ -22,3 +22,19 @@
 | 290 | Word Pattern | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
 | 392 | Is Subsequence | String | Easy | Java | [Solution.java](./String/Java/0392-is-subsequence/Solution.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Irina0007/leetcode/tree/main/0202-happy-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Irina0007/leetcode/tree/main/0202-happy-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/Irina0007/leetcode/tree/main/0202-happy-number/) | Easy |
+<!---LeetCode Topics End-->
