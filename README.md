@@ -12,6 +12,7 @@
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
 | 121 | Best Time to Buy and Sell Stock | Array | Easy | Java | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
+| 128 | Longest Consecutive Sequence | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
 | 202 | Happy Number | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0202-happy-number/Solution.java) |
@@ -39,7 +40,7 @@
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
-| [0128-longest-consecutive-sequence](https://github.com/Irina0007/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
@@ -50,7 +51,7 @@
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
-| [0128-longest-consecutive-sequence](https://github.com/Irina0007/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
@@ -119,5 +120,5 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0128-longest-consecutive-sequence](https://github.com/Irina0007/leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
 <!---LeetCode Topics End-->
