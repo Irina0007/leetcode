@@ -13,6 +13,7 @@
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
 | 121 | Best Time to Buy and Sell Stock | Array | Easy | Java | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
+| 125 | Valid Palindrome | String | Easy | Java | [Solution.java](./String/Java/0125-valid-palindrome/Solution.java) |
 | 128 | Longest Consecutive Sequence | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) |
 | 167 | Two Sum II - Input Array Is Sorted | Array | Medium | Java | [Solution.java](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
@@ -67,6 +68,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
 | [0290-word-pattern](./Hashmap/Java/0290-word-pattern/Solution.java) | Easy |
@@ -80,6 +82,7 @@
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
+| [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
