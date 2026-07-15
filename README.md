@@ -34,6 +34,7 @@
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
 | [0011-container-with-most-water](./Array/Java/0011-container-with-most-water/Solution.java) | Medium |
+| [0015-3sum](https://github.com/Irina0007/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
@@ -77,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](./Array/Java/0011-container-with-most-water/Solution.java) | Medium |
+| [0015-3sum](https://github.com/Irina0007/leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
@@ -104,6 +106,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Irina0007/leetcode/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
