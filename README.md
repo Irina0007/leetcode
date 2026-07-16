@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Irina0007/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
@@ -71,6 +72,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Irina0007/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
@@ -123,6 +125,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Irina0007/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
 ## Counting
