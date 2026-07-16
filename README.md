@@ -4,6 +4,7 @@
 |---|-------|----------|------------|----------|----------|
 | 1 | Two Sum | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0001-two-sum/Solution.java) |
 | 11 | Container With Most Water | Array | Medium | Java | [Solution.java](./Array/Java/0011-container-with-most-water/Solution.java) |
+| 15 | 3Sum | Array | Medium | Java | [Solution.java](./Array/Java/0015-three-sum/Solution.java) |
 | 26 | Remove Duplicates from Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) |
 | 27 | Remove Element | Array | Easy | Java | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
@@ -20,6 +21,7 @@
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
 | 202 | Happy Number | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0202-happy-number/Solution.java) |
 | 205 | Isomorphic Strings | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
+| 209 | Minimum Size Subarray Sum | Array | Medium | Java | [Solution.java](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) |
 | 219 | Contains Duplicate II | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) |
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 274 | H-Index | Array | Medium | Java | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
@@ -35,6 +37,7 @@
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
 | [0011-container-with-most-water](./Array/Java/0011-container-with-most-water/Solution.java) | Medium |
+| [0015-three-sum](./Array/Java/0015-three-sum/Solution.java) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
@@ -48,6 +51,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
+| [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
 | [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
 | [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
@@ -78,6 +82,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](./Array/Java/0011-container-with-most-water/Solution.java) | Medium |
+| [0015-three-sum](./Array/Java/0015-three-sum/Solution.java) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
@@ -105,6 +110,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-three-sum](./Array/Java/0015-three-sum/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
@@ -117,6 +123,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -135,4 +142,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
+| [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 <!---LeetCode Topics End-->
