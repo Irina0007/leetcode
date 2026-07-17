@@ -158,19 +158,23 @@
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
+| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
+| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
+| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
+| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
