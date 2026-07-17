@@ -158,24 +158,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
+| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
+| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
+| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
+| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 <!---LeetCode Topics End-->
