@@ -26,6 +26,7 @@
 | 205 | Isomorphic Strings | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
 | 209 | Minimum Size Subarray Sum | Array | Medium | Java | [Solution.java](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) |
 | 219 | Contains Duplicate II | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) |
+| 226 | Invert Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0226-invert-binary-tree/Solution.java) |
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 274 | H-Index | Array | Medium | Java | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
 | 283 | Move Zeroes | Array | Easy | Java | [Solution.java](./Array/Java/0283-move-zeroes/Solution.java) |
@@ -158,23 +159,23 @@
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
-| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
-| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
-| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
-| [0226-invert-binary-tree](https://github.com/Irina0007/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 <!---LeetCode Topics End-->
