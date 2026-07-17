@@ -14,6 +14,7 @@
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
 | 100 | Same Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0100-same-tree/Solution.java) |
+| 101 | Symmetric Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0101-symmetric-tree/Solution.java) |
 | 104 | Maximum Depth of Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 121 | Best Time to Buy and Sell Stock | Array | Easy | Java | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
@@ -158,28 +159,28 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
-| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
-| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
-| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
-| [0101-symmetric-tree](https://github.com/Irina0007/leetcode/tree/main/0101-symmetric-tree/) | Easy |
+| [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 <!---LeetCode Topics End-->
