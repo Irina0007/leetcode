@@ -17,6 +17,7 @@
 | 101 | Symmetric Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0101-symmetric-tree/Solution.java) |
 | 104 | Maximum Depth of Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) |
+| 106 | Construct Binary Tree from Inorder and Postorder Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) |
 | 121 | Best Time to Buy and Sell Stock | Array | Easy | Java | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
 | 125 | Valid Palindrome | String | Easy | Java | [Solution.java](./String/Java/0125-valid-palindrome/Solution.java) |
@@ -52,7 +53,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Irina0007/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
@@ -70,7 +71,7 @@
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Irina0007/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
@@ -147,7 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Irina0007/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -169,7 +170,7 @@
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Irina0007/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -192,6 +193,6 @@
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Irina0007/leetcode/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 <!---LeetCode Topics End-->
