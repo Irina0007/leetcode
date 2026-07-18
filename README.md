@@ -22,6 +22,7 @@
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
 | 125 | Valid Palindrome | String | Easy | Java | [Solution.java](./String/Java/0125-valid-palindrome/Solution.java) |
 | 128 | Longest Consecutive Sequence | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) |
+| 141 | Linked List Cycle | LinkedList | Easy | Java | [Solution.java](./LinkedList/Java/0141-linked-list-cycle/Solution.java) |
 | 167 | Two Sum II - Input Array Is Sorted | Array | Medium | Java | [Solution.java](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
@@ -73,7 +74,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
-| [0141-linked-list-cycle](https://github.com/Irina0007/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/Solution.java) | Easy |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
@@ -102,7 +103,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
-| [0141-linked-list-cycle](https://github.com/Irina0007/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/Solution.java) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
@@ -200,5 +201,5 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0141-linked-list-cycle](https://github.com/Irina0007/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/Solution.java) | Easy |
 <!---LeetCode Topics End-->
