@@ -134,6 +134,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Irina0007/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
 ## Sliding Window
@@ -201,5 +202,10 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Irina0007/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Irina0007/leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
