@@ -3,6 +3,7 @@
 | # | Title | Category | Difficulty | Language | Solution |
 |---|-------|----------|------------|----------|----------|
 | 1 | Two Sum | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0001-two-sum/Solution.java) |
+| 2 | Add Two Numbers | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0002-add-two-numbers/Solution.java) |
 | 3 | Longest Substring Without Repeating Characters | String | Medium | Java | [Solution.java](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) |
 | 11 | Container With Most Water | Array | Medium | Java | [Solution.java](./Array/Java/0011-container-with-most-water/Solution.java) |
 | 15 | 3Sum | Array | Medium | Java | [Solution.java](./Array/Java/0015-three-sum/Solution.java) |
@@ -134,7 +135,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Irina0007/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
 ## Sliding Window
@@ -202,10 +203,10 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Irina0007/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0002-add-two-numbers](https://github.com/Irina0007/leetcode/tree/main/0002-add-two-numbers/) | Medium |
+| [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 <!---LeetCode Topics End-->
