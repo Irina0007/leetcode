@@ -7,6 +7,7 @@
 | 3 | Longest Substring Without Repeating Characters | String | Medium | Java | [Solution.java](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) |
 | 11 | Container With Most Water | Array | Medium | Java | [Solution.java](./Array/Java/0011-container-with-most-water/Solution.java) |
 | 15 | 3Sum | Array | Medium | Java | [Solution.java](./Array/Java/0015-three-sum/Solution.java) |
+| 21 | Merge Two Sorted Lists | LinkedList | Easy | Java | [Solution.java](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) |
 | 26 | Remove Duplicates from Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) |
 | 27 | Remove Element | Array | Easy | Java | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
@@ -204,11 +205,11 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/Irina0007/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
-| [0021-merge-two-sorted-lists](https://github.com/Irina0007/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
 <!---LeetCode Topics End-->
