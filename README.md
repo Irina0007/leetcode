@@ -21,6 +21,7 @@
 | 104 | Maximum Depth of Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) |
+| 117 | Populating Next Right Pointers in Each Node II | Tree | Medium | Java | [Solution.java](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) |
 | 121 | Best Time to Buy and Sell Stock | Array | Easy | Java | [Solution.java](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
 | 125 | Valid Palindrome | String | Easy | Java | [Solution.java](./String/Java/0125-valid-palindrome/Solution.java) |
@@ -178,7 +179,7 @@
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Irina0007/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -186,7 +187,7 @@
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Irina0007/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -194,7 +195,7 @@
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Irina0007/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -204,7 +205,7 @@
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Irina0007/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -212,7 +213,7 @@
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
 | [0092-reverse-linked-list-ii](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) | Medium |
-| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Irina0007/leetcode/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
 | Problem Name | Difficulty |

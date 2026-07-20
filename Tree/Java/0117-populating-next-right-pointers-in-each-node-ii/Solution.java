@@ -7,7 +7,7 @@ class Node {
     public Node next;
 
     public Node() {}
-    
+
     public Node(int _val) {
         val = _val;
     }
@@ -23,26 +23,29 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        Node cur=root;
+        Node cur = root;
 
-        while(cur!=null){
-            Node dummy=new Node(0);
-            Node tail=dummy;
+        while (cur != null) {
+            Node dummy = new Node(0);
+            Node tail = dummy;
 
-            while(cur!=null){
-                if(cur.left!=null){
-                    tail.next=cur.left;
-                    tail=tail.next;
+            while (cur != null) {
+                if (cur.left != null) {
+                    tail.next = cur.left;
+                    tail = tail.next;
                 }
-                if(cur.right!=null){
-                    tail.next=cur.right;
-                    tail=tail.next;
+
+                if (cur.right != null) {
+                    tail.next = cur.right;
+                    tail = tail.next;
                 }
-                cur=cur.next;
-                
+
+                cur = cur.next;
             }
-            cur=dummy.next;
+
+            cur = dummy.next;
         }
+
         return root;
     }
 }
