@@ -179,6 +179,7 @@
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Irina0007/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
@@ -187,6 +188,7 @@
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Irina0007/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
@@ -205,6 +207,7 @@
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Irina0007/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Linked List
@@ -213,6 +216,7 @@
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
 | [0092-reverse-linked-list-ii](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Irina0007/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
@@ -220,4 +224,8 @@
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Irina0007/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 <!---LeetCode Topics End-->
