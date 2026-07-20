@@ -206,6 +206,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
+| [0092-reverse-linked-list-ii](https://github.com/Irina0007/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
