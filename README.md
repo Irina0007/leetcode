@@ -15,6 +15,7 @@
 | 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
+| 92 | Reverse Linked List II | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) |
 | 100 | Same Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0100-same-tree/Solution.java) |
 | 101 | Symmetric Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0101-symmetric-tree/Solution.java) |
 | 104 | Maximum Depth of Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) |
@@ -206,7 +207,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0021-merge-two-sorted-lists](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) | Easy |
-| [0092-reverse-linked-list-ii](https://github.com/Irina0007/leetcode/tree/main/0092-reverse-linked-list-ii/) | Medium |
+| [0092-reverse-linked-list-ii](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
