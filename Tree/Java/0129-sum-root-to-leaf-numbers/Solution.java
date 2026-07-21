@@ -15,24 +15,20 @@
  */
 class Solution {
     public int sumNumbers(TreeNode root) {
-        return sum(root,0);
+        return sum(root, 0);
     }
-    public int sum(TreeNode root, int num){
-        if(root==null){
+
+    public int sum(TreeNode root, int num) {
+        if (root == null) {
             return 0;
         }
-        num=num*10+root.val;
-        if(root.left==null&&root.right==null){
+
+        num = num * 10 + root.val;
+
+        if (root.left == null && root.right == null) {
             return num;
         }
-        return sum(root.left,num)+sum(root.right,num);
+
+        return sum(root.left, num) + sum(root.right, num);
     }
-
-
-
-
-
-        
-    
-    
 }
