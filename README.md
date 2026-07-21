@@ -27,6 +27,7 @@
 | 122 | Best Time to Buy and Sell Stock II | Array | Medium | Java | [Solution.java](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) |
 | 125 | Valid Palindrome | String | Easy | Java | [Solution.java](./String/Java/0125-valid-palindrome/Solution.java) |
 | 128 | Longest Consecutive Sequence | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) |
+| 138 | Copy List with Random Pointer | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0138-copy-list-with-random-pointer/Solution.java) |
 | 141 | Linked List Cycle | LinkedList | Easy | Java | [Method 1: HashSet](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java), [Method 2: Two Pointers](./LinkedList/Java/0141-linked-list-cycle/method-2-two-pointers/Solution.java) |
 | 167 | Two Sum II - Input Array Is Sorted | Array | Medium | Java | [Solution.java](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
@@ -79,6 +80,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
+| [0138-copy-list-with-random-pointer](./LinkedList/Java/0138-copy-list-with-random-pointer/Solution.java) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
@@ -219,6 +221,7 @@
 | [0092-reverse-linked-list-ii](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
+| [0138-copy-list-with-random-pointer](./LinkedList/Java/0138-copy-list-with-random-pointer/Solution.java) | Medium |
 | [0141-linked-list-cycle](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
