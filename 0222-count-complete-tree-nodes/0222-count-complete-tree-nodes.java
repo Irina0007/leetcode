@@ -18,9 +18,24 @@ class Solution {
         if(root==null){
             return 0;
         }
-        if(root.left==null&&root.right==null){
-            return 1;
+        int countleft=0;
+        int countright=0;
+        TreeNode left=root.left;
+        TreeNode right=root.right;
+        while(left!=null){
+            countleft++;
+            left=left.left;
         }
-        return countNodes(root.left)+countNodes(root.right)+1;
+        while(right!=null){
+            countright++;
+            right=right.left;
+        }
+        if(countright==countleft){
+            return (int)Math.pow(2,countleft)+countNodes(root.right);
+        }
+        else{
+            return (int)Math.pow(2,countright)+countNodes(root.left);
+        }
+        
     }
 }
