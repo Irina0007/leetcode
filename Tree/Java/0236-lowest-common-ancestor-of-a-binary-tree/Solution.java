@@ -17,11 +17,8 @@ class Solution {
             return root;
         }
 
-        TreeNode leftNode =
-                lowestCommonAncestor(root.left, p, q);
-
-        TreeNode rightNode =
-                lowestCommonAncestor(root.right, p, q);
+        TreeNode leftNode = lowestCommonAncestor(root.left, p, q);
+        TreeNode rightNode = lowestCommonAncestor(root.right, p, q);
 
         if (leftNode != null && rightNode != null) {
             return root;
