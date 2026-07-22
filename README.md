@@ -171,6 +171,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Irina0007/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +188,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Irina0007/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Irina0007/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -220,6 +222,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Irina0007/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Irina0007/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -240,4 +243,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Irina0007/leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 <!---LeetCode Topics End-->
