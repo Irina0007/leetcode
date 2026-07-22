@@ -38,6 +38,7 @@
 | 205 | Isomorphic Strings | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
 | 209 | Minimum Size Subarray Sum | Array | Medium | Java | [Solution.java](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) |
 | 219 | Contains Duplicate II | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) |
+| 222 | Count Complete Tree Nodes | Tree | Easy | Java | [Solution.java](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) |
 | 226 | Invert Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0226-invert-binary-tree/Solution.java) |
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 274 | H-Index | Array | Medium | Java | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
@@ -172,6 +173,7 @@
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
+| [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
+| [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -221,6 +224,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
+| [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -241,4 +245,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 <!---LeetCode Topics End-->
