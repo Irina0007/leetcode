@@ -14,6 +14,7 @@
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
 | 49 | Group Anagrams | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
 | 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
+| 71 | Simplify Path | Stack | Medium | Java | [Solution.java](./Stack/Java/0071-simplify-path/Solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
 | 92 | Reverse Linked List II | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) |
@@ -99,8 +100,8 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
+| [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
-| [0071-simplify-path](https://github.com/Irina0007/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
@@ -252,7 +253,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
-| [0071-simplify-path](https://github.com/Irina0007/leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
