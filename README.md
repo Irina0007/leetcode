@@ -33,6 +33,7 @@
 | 129 | Sum Root to Leaf Numbers | Tree | Medium | Java | [Solution.java](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) |
 | 138 | Copy List with Random Pointer | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0138-copy-list-with-random-pointer/Solution.java) |
 | 141 | Linked List Cycle | LinkedList | Easy | Java | [Method 1: HashSet](./LinkedList/Java/0141-linked-list-cycle/method-1-hashset/Solution.java), [Method 2: Two Pointers](./LinkedList/Java/0141-linked-list-cycle/method-2-two-pointers/Solution.java) |
+| 155 | Min Stack | Stack | Medium | Java | [Solution.java](./Stack/Java/0155-min-stack/Solution.java) |
 | 167 | Two Sum II - Input Array Is Sorted | Array | Medium | Java | [Solution.java](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
@@ -254,14 +255,14 @@
 | ------- | ------- |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
+| [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
-| [0155-min-stack](https://github.com/Irina0007/leetcode/tree/main/0155-min-stack/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0155-min-stack](https://github.com/Irina0007/leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
