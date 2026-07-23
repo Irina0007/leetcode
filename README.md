@@ -100,8 +100,8 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
-| [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
@@ -255,8 +255,13 @@
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
+| [0155-min-stack](https://github.com/Irina0007/leetcode/tree/main/0155-min-stack/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Irina0007/leetcode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
