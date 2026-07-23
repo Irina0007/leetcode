@@ -100,6 +100,7 @@
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0071-simplify-path](https://github.com/Irina0007/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
@@ -251,6 +252,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
+| [0071-simplify-path](https://github.com/Irina0007/leetcode/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
