@@ -104,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
@@ -153,6 +154,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
+| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
@@ -258,9 +260,9 @@
 | ------- | ------- |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
-| [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,5 +270,10 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
 <!---LeetCode Topics End-->
