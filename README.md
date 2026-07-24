@@ -71,6 +71,7 @@
 | [0121-best-time-to-buy-and-sell-stock](./Array/Java/0121-best-time-to-buy-and-sell-stock/Solution.java) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](./Array/Java/0122-best-time-to-buy-and-sell-stock-ii/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Irina0007/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
@@ -151,6 +152,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Irina0007/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
 ## Sliding Window
@@ -255,8 +257,9 @@
 | ------- | ------- |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
-| [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Irina0007/leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
