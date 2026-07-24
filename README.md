@@ -14,6 +14,7 @@
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
 | 49 | Group Anagrams | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
 | 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
+| 67 | Add Binary | String | Easy | Java | [Solution.java](./String/Java/0067-add-binary/Solution.java) |
 | 71 | Simplify Path | Stack | Medium | Java | [Solution.java](./Stack/Java/0071-simplify-path/Solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
 | 88 | Merge Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0088-merge-sorted-array/Solution.java) |
@@ -104,7 +105,7 @@
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
-| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0071-simplify-path](./Stack/Java/0071-simplify-path/Solution.java) | Medium |
 | [0125-valid-palindrome](./String/Java/0125-valid-palindrome/Solution.java) | Easy |
 | [0205-isomorphic-strings](./Hashmap/Java/0205-isomorphic-strings/Solution.java) | Easy |
@@ -154,7 +155,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
-| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
@@ -270,10 +271,10 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0067-add-binary](https://github.com/Irina0007/leetcode/tree/main/0067-add-binary/) | Easy |
+| [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 <!---LeetCode Topics End-->
