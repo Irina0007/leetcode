@@ -38,6 +38,7 @@
 | 155 | Min Stack | Stack | Medium | Java | [Solution.java](./Stack/Java/0155-min-stack/Solution.java) |
 | 167 | Two Sum II - Input Array Is Sorted | Array | Medium | Java | [Solution.java](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
+| 173 | Binary Search Tree Iterator | Tree | Medium | Java | [Solution.java](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) |
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
 | 190 | Reverse Bits | Bit Manipulation | Easy | Java | [Solution.java](./BitManipulation/Java/0190-reverse-bits/Solution.java) |
 | 191 | Number of 1 Bits | Bit Manipulation | Easy | Java | [Solution.java](./BitManipulation/Java/0191-number-of-1-bits/Solution.java) |
@@ -206,7 +207,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
-| [0173-binary-search-tree-iterator](https://github.com/Irina0007/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
@@ -243,7 +244,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
-| [0173-binary-search-tree-iterator](https://github.com/Irina0007/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
@@ -270,12 +271,20 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
-| [0173-binary-search-tree-iterator](https://github.com/Irina0007/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
-| [0173-binary-search-tree-iterator](https://github.com/Irina0007/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,12 +296,4 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
-## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0173-binary-search-tree-iterator](https://github.com/Irina0007/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
-## Iterator
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0173-binary-search-tree-iterator](https://github.com/Irina0007/leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->

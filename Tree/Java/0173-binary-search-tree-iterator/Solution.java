@@ -1,3 +1,5 @@
+import java.util.*;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -17,29 +19,29 @@ class BSTIterator {
     private Stack<TreeNode> stack;
 
     public BSTIterator(TreeNode root) {
-        stack=new Stack<>();
-        TreeNode cur=root;
-        while(cur!=null){
+        stack = new Stack<>();
+        TreeNode cur = root;
+
+        while (cur != null) {
             stack.push(cur);
-            cur=cur.left;
+            cur = cur.left;
         }
-        
     }
-    
+
     public int next() {
-        TreeNode res=stack.pop();
-        TreeNode cur=res.right;
-        while(cur!=null){
+        TreeNode res = stack.pop();
+        TreeNode cur = res.right;
+
+        while (cur != null) {
             stack.push(cur);
-            cur=cur.left;
+            cur = cur.left;
         }
+
         return res.val;
-        
     }
-    
+
     public boolean hasNext() {
         return !stack.isEmpty();
-        
     }
 }
 
