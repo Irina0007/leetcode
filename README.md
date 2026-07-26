@@ -39,6 +39,7 @@
 | 167 | Two Sum II - Input Array Is Sorted | Array | Medium | Java | [Solution.java](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) |
 | 169 | Majority Element | Array | Easy | Java | [Method 1: HashMap](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java), [Method 2: Boyer-Moore](./Array/Java/0169-majority-element/method-2-boyer-moore/Solution.java) |
 | 189 | Rotate Array | Array | Medium | Java | [Solution.java](./Array/Java/0189-rotate-array/Solution.java) |
+| 190 | Reverse Bits | Bit Manipulation | Easy | Java | [Solution.java](./BitManipulation/Java/0190-reverse-bits/Solution.java) |
 | 202 | Happy Number | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0202-happy-number/Solution.java) |
 | 205 | Isomorphic Strings | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0205-isomorphic-strings/Solution.java) |
 | 209 | Minimum Size Subarray Sum | Array | Medium | Java | [Solution.java](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) |
@@ -176,7 +177,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
-| [0190-reverse-bits](https://github.com/Irina0007/leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0190-reverse-bits](./BitManipulation/Java/0190-reverse-bits/Solution.java) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -273,7 +274,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
-| [0190-reverse-bits](https://github.com/Irina0007/leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0190-reverse-bits](./BitManipulation/Java/0190-reverse-bits/Solution.java) | Easy |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
