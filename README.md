@@ -176,6 +176,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0169-majority-element](./Array/Java/0169-majority-element/method-1-hashmap/Solution.java) | Easy |
+| [0190-reverse-bits](https://github.com/Irina0007/leetcode/tree/main/0190-reverse-bits/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -272,6 +273,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
+| [0190-reverse-bits](https://github.com/Irina0007/leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
