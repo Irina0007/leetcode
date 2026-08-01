@@ -208,6 +208,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Irina0007/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
@@ -221,6 +222,7 @@
 | [0114-flatten-binary-tree-to-linked-list](./Tree/Java/0114-flatten-binary-tree-to-linked-list/Solution.java) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Irina0007/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
 ## Breadth-First Search
@@ -231,6 +233,7 @@
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0112-path-sum](./Tree/Java/0112-path-sum/Solution.java) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Irina0007/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -245,6 +248,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/Irina0007/leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
