@@ -21,6 +21,7 @@
 | 92 | Reverse Linked List II | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0092-reverse-linked-list-ii/Solution.java) |
 | 100 | Same Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0100-same-tree/Solution.java) |
 | 101 | Symmetric Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0101-symmetric-tree/Solution.java) |
+| 102 | Binary Tree Level Order Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) |
 | 104 | Maximum Depth of Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 105 | Construct Binary Tree from Preorder and Inorder Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) |
 | 106 | Construct Binary Tree from Inorder and Postorder Traversal | Tree | Medium | Java | [Solution.java](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) |
@@ -202,7 +203,7 @@
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/Irina0007/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
@@ -235,7 +236,7 @@
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/Irina0007/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0112-path-sum](./Tree/Java/0112-path-sum/Solution.java) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
@@ -247,7 +248,7 @@
 | ------- | ------- |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
-| [0102-binary-tree-level-order-traversal](https://github.com/Irina0007/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
