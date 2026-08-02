@@ -204,6 +204,7 @@
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Irina0007/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
@@ -237,6 +238,7 @@
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Irina0007/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0112-path-sum](./Tree/Java/0112-path-sum/Solution.java) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
@@ -249,6 +251,7 @@
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Irina0007/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
