@@ -1,3 +1,5 @@
+import java.util.*;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -15,30 +17,36 @@
  */
 class Solution {
     public List<Double> averageOfLevels(TreeNode root) {
-        List<Double> res=new ArrayList<>();
-        Queue<TreeNode> q=new ArrayDeque<>();
+        List<Double> res = new ArrayList<>();
+        Queue<TreeNode> q = new ArrayDeque<>();
 
-        if(root==null){
+        if (root == null) {
             return res;
         }
+
         q.offer(root);
-        while(!q.isEmpty()){
-            int size=q.size();
-            long total=0;
-            for(int i=0; i<size;i++){
-                TreeNode node=q.poll();
-                total+=node.val;
-                if(node.left!=null){
+
+        while (!q.isEmpty()) {
+            int size = q.size();
+            long total = 0;
+
+            for (int i = 0; i < size; i++) {
+                TreeNode node = q.poll();
+                total += node.val;
+
+                if (node.left != null) {
                     q.offer(node.left);
                 }
-                if(node.right!=null){
+
+                if (node.right != null) {
                     q.offer(node.right);
                 }
             }
-            double ave=(double)total/size;
+
+            double ave = (double) total / size;
             res.add(ave);
         }
+
         return res;
-        
     }
 }
