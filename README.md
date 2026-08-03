@@ -205,6 +205,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Irina0007/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
@@ -227,6 +228,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Irina0007/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0104-maximum-depth-of-binary-tree](./Tree/Java/0104-maximum-depth-of-binary-tree/Solution.java) | Easy |
@@ -257,6 +259,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Irina0007/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](./Tree/Java/0100-same-tree/Solution.java) | Easy |
 | [0101-symmetric-tree](./Tree/Java/0101-symmetric-tree/Solution.java) | Easy |
 | [0102-binary-tree-level-order-traversal](./Tree/Java/0102-binary-tree-level-order-traversal/Solution.java) | Medium |
@@ -308,6 +311,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Irina0007/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
 | [0230-kth-smallest-element-in-a-bst](./Tree/Java/0230-kth-smallest-element-in-a-bst/Solution.java) | Medium |
 | [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
