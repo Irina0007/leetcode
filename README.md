@@ -58,6 +58,7 @@
 | 290 | Word Pattern | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
 | 392 | Is Subsequence | String | Easy | Java | [Solution.java](./String/Java/0392-is-subsequence/Solution.java) |
+| 530 | Minimum Absolute Difference in BST | Tree | Easy | Java | [Solution.java](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) |
 | 637 | Average of Levels in Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) |
 
 <!---LeetCode Topics Start-->
@@ -219,7 +220,7 @@
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -234,7 +235,7 @@
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -248,7 +249,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -269,7 +270,7 @@
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -304,7 +305,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
-| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
