@@ -219,6 +219,7 @@
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -233,6 +234,7 @@
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -246,6 +248,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](./Tree/Java/0117-populating-next-right-pointers-in-each-node-ii/Solution.java) | Medium |
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -266,6 +269,7 @@
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -300,6 +304,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Irina0007/leetcode/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
 | ------- | ------- |
