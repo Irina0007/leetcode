@@ -1,3 +1,5 @@
+import java.util.*;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
@@ -14,19 +16,24 @@
  * }
  */
 class Solution {
-    List<Integer> list=new ArrayList<>();
     public int kthSmallest(TreeNode root, int k) {
-        Inorder(root);
-        return list.get(k-1);
-  
-    }
-    public void Inorder(TreeNode root){
-        if(root==null){
-            return;
-        }
-        Inorder(root.left);
-        list.add(root.val);
-        Inorder(root.right);
+        Stack<TreeNode> st = new Stack<>();
+        TreeNode cur = root;
 
+        while (!st.isEmpty() || cur != null) {
+            while (cur != null) {
+                st.push(cur);
+                cur = cur.left;
+            }
+
+            TreeNode node = st.pop();
+            k--;
+            if (k == 0) {
+                return node.val;
+            }
+            cur = node.right;
+        }
+
+        return -1;
     }
 }
