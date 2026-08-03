@@ -219,6 +219,7 @@
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Irina0007/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
 | [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
@@ -234,6 +235,7 @@
 | [0129-sum-root-to-leaf-numbers](./Tree/Java/0129-sum-root-to-leaf-numbers/Solution.java) | Medium |
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Irina0007/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
 | [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
@@ -269,6 +271,7 @@
 | [0199-binary-tree-right-side-view](./Tree/Java/0199-binary-tree-right-side-view/Solution.java) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
 | [0226-invert-binary-tree](./Tree/Java/0226-invert-binary-tree/Solution.java) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Irina0007/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) | Medium |
 | [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 | [0637-average-of-levels-in-binary-tree](./Tree/Java/0637-average-of-levels-in-binary-tree/Solution.java) | Easy |
@@ -305,6 +308,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Irina0007/leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0530-minimum-absolute-difference-in-bst](./Tree/Java/0530-minimum-absolute-difference-in-bst/Solution.java) | Easy |
 ## Iterator
 | Problem Name | Difficulty |
