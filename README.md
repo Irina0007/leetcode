@@ -78,6 +78,7 @@
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
+| [0066-plus-one](https://github.com/Irina0007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](./Tree/Java/0103-binary-tree-zigzag-level-order-traversal/Solution.java) | Medium |
@@ -171,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
+| [0066-plus-one](https://github.com/Irina0007/leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
