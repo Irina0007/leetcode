@@ -91,6 +91,7 @@
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Irina0007/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
 | [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
 | [0380-insert-delete-getrandom-o1](./Hashmap/Java/0380-insert-delete-getrandom-o1/Solution.java) | Medium |
@@ -207,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Irina0007/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
