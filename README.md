@@ -92,6 +92,7 @@
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
 | [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
 | [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Irina0007/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,6 +110,7 @@
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
 | [0242-valid-anagram](./Hashmap/Java/0242-valid-anagram/Solution.java) | Easy |
 | [0290-word-pattern](./Hashmap/Java/0290-word-pattern/Solution.java) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Irina0007/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0383-ransom-note](./Hashmap/Java/0383-ransom-note/Solution.java) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/Irina0007/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +312,7 @@
 | ------- | ------- |
 | [0155-min-stack](./Stack/Java/0155-min-stack/Solution.java) | Medium |
 | [0173-binary-search-tree-iterator](./Tree/Java/0173-binary-search-tree-iterator/Solution.java) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/Irina0007/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -331,4 +335,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Irina0007/leetcode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
