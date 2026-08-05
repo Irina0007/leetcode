@@ -6,6 +6,7 @@
 | 2 | Add Two Numbers | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0002-add-two-numbers/Solution.java) |
 | 3 | Longest Substring Without Repeating Characters | String | Medium | Java | [Solution.java](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) |
 | 11 | Container With Most Water | Array | Medium | Java | [Solution.java](./Array/Java/0011-container-with-most-water/Solution.java) |
+| 13 | Roman to Integer | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0013-roman-to-integer/Solution.java) |
 | 15 | 3Sum | Array | Medium | Java | [Solution.java](./Array/Java/0015-three-sum/Solution.java) |
 | 20 | Valid Parentheses | Stack | Easy | Java | [Solution.java](./Stack/Java/0020-valid-parentheses/Solution.java) |
 | 21 | Merge Two Sorted Lists | LinkedList | Easy | Java | [Solution.java](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) |
@@ -107,7 +108,7 @@
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
-| [0013-roman-to-integer](https://github.com/Irina0007/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
 | [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
@@ -127,7 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
-| [0013-roman-to-integer](https://github.com/Irina0007/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
@@ -180,7 +181,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
-| [0013-roman-to-integer](https://github.com/Irina0007/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
