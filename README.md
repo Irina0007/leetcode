@@ -14,6 +14,7 @@
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
 | 49 | Group Anagrams | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
 | 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
+| 66 | Plus One | Array | Easy | Java | [Solution.java](./Array/Java/0066-plus-one/Solution.java) |
 | 67 | Add Binary | String | Easy | Java | [Solution.java](./String/Java/0067-add-binary/Solution.java) |
 | 71 | Simplify Path | Stack | Medium | Java | [Solution.java](./Stack/Java/0071-simplify-path/Solution.java) |
 | 80 | Remove Duplicates from Sorted Array II | Array | Medium | Java | [Solution.java](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) |
@@ -78,7 +79,7 @@
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
-| [0066-plus-one](https://github.com/Irina0007/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](./Tree/Java/0103-binary-tree-zigzag-level-order-traversal/Solution.java) | Medium |
@@ -172,7 +173,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
-| [0066-plus-one](https://github.com/Irina0007/leetcode/tree/main/0066-plus-one/) | Easy |
+| [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
