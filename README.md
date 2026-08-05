@@ -107,6 +107,7 @@
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
+| [0013-roman-to-integer](https://github.com/Irina0007/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
@@ -126,6 +127,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
+| [0013-roman-to-integer](https://github.com/Irina0007/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](./Stack/Java/0020-valid-parentheses/Solution.java) | Easy |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
@@ -178,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
+| [0013-roman-to-integer](https://github.com/Irina0007/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
