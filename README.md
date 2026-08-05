@@ -11,6 +11,7 @@
 | 21 | Merge Two Sorted Lists | LinkedList | Easy | Java | [Solution.java](./LinkedList/Java/0021-merge-two-sorted-lists/Solution.java) |
 | 26 | Remove Duplicates from Sorted Array | Array | Easy | Java | [Solution.java](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) |
 | 27 | Remove Element | Array | Easy | Java | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
+| 36 | Valid Sudoku | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0036-valid-sudoku/Solution.java) |
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
 | 49 | Group Anagrams | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
 | 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
@@ -76,7 +77,7 @@
 | [0015-three-sum](./Array/Java/0015-three-sum/Solution.java) | Medium |
 | [0026-remove-duplicates-from-sorted-array](./Array/Java/0026-remove-duplicates-from-sorted-array/Solution.java) | Easy |
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
-| [0036-valid-sudoku](https://github.com/Irina0007/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
@@ -104,7 +105,7 @@
 | ------- | ------- |
 | [0001-two-sum](./Hashmap/Java/0001-two-sum/Solution.java) | Easy |
 | [0003-longest-substring-without-repeating-characters](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) | Medium |
-| [0036-valid-sudoku](https://github.com/Irina0007/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
@@ -351,5 +352,5 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0036-valid-sudoku](https://github.com/Irina0007/leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 <!---LeetCode Topics End-->
