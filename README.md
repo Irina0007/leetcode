@@ -14,6 +14,7 @@
 | 27 | Remove Element | Array | Easy | Java | [Solution.java](./Array/Java/0027-remove-element/Solution.java) |
 | 36 | Valid Sudoku | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0036-valid-sudoku/Solution.java) |
 | 45 | Jump Game II | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) |
+| 48 | Rotate Image | Array | Medium | Java | [Solution.java](./Array/Java/0048-rotate-image/Solution.java) |
 | 49 | Group Anagrams | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0049-group-anagrams/Solution.java) |
 | 54 | Spiral Matrix | Array | Medium | Java | [Solution.java](./Array/Java/0054-spiral-matrix/Solution.java) |
 | 55 | Jump Game | Array | Medium | Java | [Method 1: Greedy](./Array/Java/0055-jump-game/method-1-greedy/Solution.java), [Method 2: DP](./Array/Java/0055-jump-game/method-2-dp/Solution.java) |
@@ -81,7 +82,7 @@
 | [0027-remove-element](./Array/Java/0027-remove-element/Solution.java) | Easy |
 | [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0045-jump-game-ii](./Array/Java/0045-jump-game-ii/method-1-greedy/Solution.java) | Medium |
-| [0048-rotate-image](https://github.com/Irina0007/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
@@ -183,7 +184,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
 | [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
-| [0048-rotate-image](https://github.com/Irina0007/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
@@ -362,6 +363,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
-| [0048-rotate-image](https://github.com/Irina0007/leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 <!---LeetCode Topics End-->
