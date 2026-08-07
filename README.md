@@ -87,6 +87,7 @@
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0055-jump-game](./Array/Java/0055-jump-game/method-1-greedy/Solution.java) | Medium |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/Irina0007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](./Array/Java/0080-remove-duplicates-from-sorted-array-ii/Solution.java) | Medium |
 | [0088-merge-sorted-array](./Array/Java/0088-merge-sorted-array/Solution.java) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](./Tree/Java/0103-binary-tree-zigzag-level-order-traversal/Solution.java) | Medium |
@@ -113,6 +114,7 @@
 | [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
 | [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0049-group-anagrams](./Hashmap/Java/0049-group-anagrams/Solution.java) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Irina0007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](./Tree/Java/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](./Tree/Java/0106-construct-binary-tree-from-inorder-and-postorder-traversal/Solution.java) | Medium |
 | [0128-longest-consecutive-sequence](./Hashmap/Java/0128-longest-consecutive-sequence/Solution.java) | Medium |
@@ -365,4 +367,5 @@
 | [0036-valid-sudoku](./Hashmap/Java/0036-valid-sudoku/Solution.java) | Medium |
 | [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Irina0007/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
