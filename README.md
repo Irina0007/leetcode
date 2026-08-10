@@ -58,6 +58,7 @@
 | 219 | Contains Duplicate II | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) |
 | 222 | Count Complete Tree Nodes | Tree | Easy | Java | [Solution.java](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) |
 | 226 | Invert Binary Tree | Tree | Easy | Java | [Solution.java](./Tree/Java/0226-invert-binary-tree/Solution.java) |
+| 228 | Summary Ranges | Array | Easy | Java | [Solution.java](./Array/Java/0228-summary-ranges/Solution.java) |
 | 230 | Kth Smallest Element in a BST | Tree | Medium | Java | [Solution.java](./Tree/Java/0230-kth-smallest-element-in-a-bst/Solution.java) |
 | 236 | Lowest Common Ancestor of a Binary Tree | Tree | Medium | Java | [Solution.java](./Tree/Java/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) |
 | 238 | Product of Array Except Self | Array | Medium | Java | [Solution.java](./Array/Java/0238-product-of-array-except-self/Solution.java) |
@@ -104,7 +105,7 @@
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 | [0219-contains-duplicate-ii](./Hashmap/Java/0219-contains-duplicate-ii/Solution.java) | Easy |
-| [0228-summary-ranges](https://github.com/Irina0007/leetcode/tree/main/0228-summary-ranges/) | Easy |
+| [0228-summary-ranges](./Array/Java/0228-summary-ranges/Solution.java) | Easy |
 | [0238-product-of-array-except-self](./Array/Java/0238-product-of-array-except-self/Solution.java) | Medium |
 | [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
 | [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
