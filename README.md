@@ -64,6 +64,7 @@
 | 242 | Valid Anagram | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0242-valid-anagram/Solution.java) |
 | 274 | H-Index | Array | Medium | Java | [Solution.java](./Array/Java/0274-h-index/Solution.java) |
 | 283 | Move Zeroes | Array | Easy | Java | [Solution.java](./Array/Java/0283-move-zeroes/Solution.java) |
+| 289 | Game of Life | Array | Medium | Java | [Solution.java](./Array/Java/0289-game-of-life/Solution.java) |
 | 290 | Word Pattern | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0290-word-pattern/Solution.java) |
 | 380 | Insert Delete GetRandom O(1) | Hashmap | Medium | Java | [Solution.java](./Hashmap/Java/0380-insert-delete-getrandom-o1/Solution.java) |
 | 383 | Ransom Note | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0383-ransom-note/Solution.java) |
@@ -106,7 +107,7 @@
 | [0238-product-of-array-except-self](./Array/Java/0238-product-of-array-except-self/Solution.java) | Medium |
 | [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
 | [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
-| [0289-game-of-life](https://github.com/Irina0007/leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0289-game-of-life](./Array/Java/0289-game-of-life/Solution.java) | Medium |
 | [0380-insert-delete-getrandom-o1](./Hashmap/Java/0380-insert-delete-getrandom-o1/Solution.java) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -359,7 +360,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
-| [0289-game-of-life](https://github.com/Irina0007/leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0289-game-of-life](./Array/Java/0289-game-of-life/Solution.java) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -371,5 +372,5 @@
 | [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0073-set-matrix-zeroes](./Array/Java/0073-set-matrix-zeroes/Solution.java) | Medium |
-| [0289-game-of-life](https://github.com/Irina0007/leetcode/tree/main/0289-game-of-life/) | Medium |
+| [0289-game-of-life](./Array/Java/0289-game-of-life/Solution.java) | Medium |
 <!---LeetCode Topics End-->
