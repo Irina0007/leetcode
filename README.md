@@ -106,6 +106,7 @@
 | [0238-product-of-array-except-self](./Array/Java/0238-product-of-array-except-self/Solution.java) | Medium |
 | [0274-h-index](./Array/Java/0274-h-index/Solution.java) | Medium |
 | [0283-move-zeroes](./Array/Java/0283-move-zeroes/Solution.java) | Easy |
+| [0289-game-of-life](https://github.com/Irina0007/leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0380-insert-delete-getrandom-o1](./Hashmap/Java/0380-insert-delete-getrandom-o1/Solution.java) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -358,6 +359,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
+| [0289-game-of-life](https://github.com/Irina0007/leetcode/tree/main/0289-game-of-life/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,4 +371,5 @@
 | [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0073-set-matrix-zeroes](./Array/Java/0073-set-matrix-zeroes/Solution.java) | Medium |
+| [0289-game-of-life](https://github.com/Irina0007/leetcode/tree/main/0289-game-of-life/) | Medium |
 <!---LeetCode Topics End-->
