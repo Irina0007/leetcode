@@ -190,6 +190,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
+| [0009-palindrome-number](https://github.com/Irina0007/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
 | [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
