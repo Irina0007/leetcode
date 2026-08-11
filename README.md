@@ -5,6 +5,7 @@
 | 1 | Two Sum | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0001-two-sum/Solution.java) |
 | 2 | Add Two Numbers | LinkedList | Medium | Java | [Solution.java](./LinkedList/Java/0002-add-two-numbers/Solution.java) |
 | 3 | Longest Substring Without Repeating Characters | String | Medium | Java | [Solution.java](./String/Java/0003-longest-substring-without-repeating-characters/Solution.java) |
+| 9 | Palindrome Number | String | Easy | Java | [Solution.java](./String/Java/0009-palindrome-number/Solution.java) |
 | 11 | Container With Most Water | Array | Medium | Java | [Solution.java](./Array/Java/0011-container-with-most-water/Solution.java) |
 | 13 | Roman to Integer | Hashmap | Easy | Java | [Solution.java](./Hashmap/Java/0013-roman-to-integer/Solution.java) |
 | 15 | 3Sum | Array | Medium | Java | [Solution.java](./Array/Java/0015-three-sum/Solution.java) |
@@ -190,7 +191,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](./LinkedList/Java/0002-add-two-numbers/Solution.java) | Medium |
-| [0009-palindrome-number](https://github.com/Irina0007/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0009-palindrome-number](./String/Java/0009-palindrome-number/Solution.java) | Easy |
 | [0013-roman-to-integer](./Hashmap/Java/0013-roman-to-integer/Solution.java) | Easy |
 | [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
