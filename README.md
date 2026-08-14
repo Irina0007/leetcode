@@ -196,6 +196,7 @@
 | [0048-rotate-image](./Array/Java/0048-rotate-image/Solution.java) | Medium |
 | [0066-plus-one](./Array/Java/0066-plus-one/Solution.java) | Easy |
 | [0067-add-binary](./String/Java/0067-add-binary/Solution.java) | Easy |
+| [0069-sqrtx](https://github.com/Irina0007/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](./Stack/Java/0150-evaluate-reverse-polish-notation/Solution.java) | Medium |
 | [0189-rotate-array](./Array/Java/0189-rotate-array/Solution.java) | Medium |
 | [0202-happy-number](./Hashmap/Java/0202-happy-number/Solution.java) | Easy |
@@ -226,6 +227,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Irina0007/leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](./Array/Java/0167-two-sum-ii-input-array-is-sorted/Solution.java) | Medium |
 | [0209-minimum-size-subarray-sum](./Array/Java/0209-minimum-size-subarray-sum/Solution.java) | Medium |
 | [0222-count-complete-tree-nodes](./Tree/Java/0222-count-complete-tree-nodes/Solution.java) | Easy |
@@ -377,4 +379,8 @@
 | [0054-spiral-matrix](./Array/Java/0054-spiral-matrix/Solution.java) | Medium |
 | [0073-set-matrix-zeroes](./Array/Java/0073-set-matrix-zeroes/Solution.java) | Medium |
 | [0289-game-of-life](./Array/Java/0289-game-of-life/Solution.java) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Irina0007/leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
